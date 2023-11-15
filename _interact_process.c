@@ -1,4 +1,4 @@
-#include "shellMain.h"
+#include "shell.h"
 
 /**
 * user_process - this func takes user inpunt and parse it with delim

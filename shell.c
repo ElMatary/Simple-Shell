@@ -1,4 +1,4 @@
-#include "shellMain.h"
+#include "shell.h"
 
 /**
  * main - It checks the input and then calls either interactive

@@ -1,4 +1,4 @@
-#include "shellMain.h"
+#include "shell.h"
 
 /**
  * _interactive - read command and proccess it untile error or exit

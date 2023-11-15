@@ -1,4 +1,4 @@
-#include "shellMain.h"
+#include "shell.h"
 
 /**
  * process_non_inter - if shell in non interactive mode take user input.

@@ -1,4 +1,4 @@
-#include "shellMain.h"
+#include "shell.h"
 
 /**
  * finding_location - function finds the location of a command It returns
